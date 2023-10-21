@@ -7,6 +7,8 @@ Portfolio: <a href="https://nicolas-pegolo.vercel.app"> nicolas-pegolo.vercel.ap
 Itch.io: https://manteiga30.itch.io
 <br>
 Linkedin: <a href="www.linkedin.com/in/nicolas-pegolo"> www.linkedin.com/in/nicolas-pegolo </a>
+<br> <br>
+Programador do: <a href="https://lsdstudios.vercel.app"> L.S.D Studios </a>
 
 ### Linguagens usadas nos repositórios públicos: 
 
