@@ -1,4 +1,8 @@
-# Desenvolvedor Unity e Back-end 🐸
+## Desenvolvedor Unity e Back-end 🐸
+
+# Redes:
+
+<br>
 
 Portfolio: <a href="https://nicolas-pegolo.vercel.app"> nicolas-pegolo.vercel.app </a>
 <br>
