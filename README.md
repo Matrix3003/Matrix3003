@@ -1,6 +1,7 @@
 # Desenvolvedor Unity e Back-end 🐸
 
-Portfolio: <a href="https://nicolas-pegolo.vercel.app"> nicolaspegolo.vercel.app </a>
+Portfolio: <a href="https://nicolas-pegolo.vercel.app"> nicolas-pegolo.vercel.app </a> 
+<br>
 Itch.io: https://manteiga30.itch.io
 
 <div align="center">
