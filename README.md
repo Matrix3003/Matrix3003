@@ -2,8 +2,6 @@
 
 ### Redes:
 
-<br>
-
 Portfolio: <a href="https://nicolas-pegolo.vercel.app"> nicolas-pegolo.vercel.app </a>
 <br>
 Itch.io: https://manteiga30.itch.io
